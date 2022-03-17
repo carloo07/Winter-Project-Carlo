@@ -1,0 +1,8 @@
+{
+  "token": "PUT THE TOKEN HERE!",
+  "prefix": "PUT YOUR PREFIX HERE!", 
+  "db": "PUT THE MONGODB HERE!", 
+  "color": "BLUE", 
+    "error": "RED",
+    "success": "GREEN"
+}
